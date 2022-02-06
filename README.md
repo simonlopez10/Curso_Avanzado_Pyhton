@@ -3,4 +3,4 @@
 Ejercicios del curso profesional de python de Platzi
 
 
-[Curso Avanzado de Python](https://platzi.com/cursos/python-profesional/) 
+[Curso Profesional de Python](https://platzi.com/cursos/python-profesional/) 
